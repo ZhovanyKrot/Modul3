@@ -1,0 +1,55 @@
+.div_style1 {
+    color: black;
+    background-color: gray;
+    border: 5px outset black;
+    float: left;
+    margin: 2px;
+}
+
+.big_text {
+    color: royalblue;
+    font-size: 30px;
+    text-shadow: 1px 1px 1px black;
+}
+
+h2 {
+    text-align: center;
+}
+
+body {
+    font-size: 16px;
+}
+
+#header-nav {
+    background-color: gray;
+    border-radius: 0;
+    border: 0;
+}
+
+#nav-list {
+    margin-top: 10px;
+}
+
+#nav-list a {
+    color: black;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.navbar-brand {
+    padding-top: 25px;
+}
+
+.navbar-brand h1 {
+    color: royalblue;
+    font-size: 2em;
+    text-shadow: 2px 2px 2px black;
+    text-transform: uppercase;
+    margin-top: -15px;
+}
+
+.navbar-header button.navbar-toggle,
+.icon-bar {
+
+    border: 2px solid royalblue;
+}
